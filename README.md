@@ -20,4 +20,5 @@ Developed a feature-rich **voice recorder application** using Python. This tool 
 ## 🔹 How to Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/KANNAN1501/CBTC.git
+   git clone https://github.com/KANNAN1501/Voice-Recorder.git
+   
